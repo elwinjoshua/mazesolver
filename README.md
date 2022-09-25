@@ -4,8 +4,8 @@ https://user-images.githubusercontent.com/88747336/189894993-23500c24-416a-4061-
 
 This project utilises depth first search to solve any number of complex mazes. Mazesolver creates a blank window gui using the built-in python module tkinter and begins drawing cells in a row-column fashion. Once the results of the maze is printed, it implements the depth-first search algorithm alongside the draw function and draws a line into its chosen path. The function will backtrack with a different line to show you how depth-first search behaves under these conditions.
 
-#Installation
 
+# Installation
 # Clone the repository into your local machine
 git clone https://github.com/BevansMath/maze-solve
 
@@ -15,5 +15,5 @@ cd maze-solve
 # Run maze-solver
 python3 main.py
 
-#Contribution
+# Contribution
 This project could be made more robust, any suggestions or changes in code is welcomed. 
